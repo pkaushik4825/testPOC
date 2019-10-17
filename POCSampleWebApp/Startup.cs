@@ -16,10 +16,11 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace POCSampleWebApp
 {
-    public class Startup
+    public class Startup 
     {
         public Startup(IConfiguration configuration)
         {
+            //configuration  3
             Configuration = configuration;
         }
 
