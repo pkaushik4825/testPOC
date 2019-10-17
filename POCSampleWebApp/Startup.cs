@@ -20,7 +20,7 @@ namespace POCSampleWebApp
     {
         public Startup(IConfiguration configuration)
         {
-            //configuration  2
+            //configuration  3
             Configuration = configuration;
         }
 
